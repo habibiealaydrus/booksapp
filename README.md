@@ -17,12 +17,14 @@ Practicing MERN Stack to simpifi a book app in local library
 * [![React][React.js]][React-url]
 * [![Node][Node.js]][Node-url]
 * [![Tailwind][Tailwindcss.com]][Tailwind-url]
-* [![Tailwind][Bootstrap.com]][Bootstrap-url]
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://react.dev/
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en
 [Express.js]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
