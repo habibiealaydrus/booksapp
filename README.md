@@ -16,6 +16,7 @@ Practicing MERN Stack to simpifi a book app in local library
 
 * [![React][React.js]][React-url]
 * [![Node][Node.js]][Node-url]
+* [![Express.js][Express.js]][Express-url]
 * [![Tailwind][Tailwindcss.com]][Tailwind-url]
   
 
